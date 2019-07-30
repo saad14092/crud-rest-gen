@@ -44,7 +44,7 @@
 				<configuration>
 					<source>${compile.version}</source>
 					<target>${compile.version}</target>
-					<release>${compile.version}</release>
+					<!-- <release>${compile.version}</release> -->
 				</configuration>
 			</plugin>
 			<plugin>
@@ -180,9 +180,9 @@
 	</dependencyManagement>
 	
 	<scm>
-		<url>https://github.com/yanndemel/crud-rest-gen</url>
-		<connection>scm:git:ssh://git@github.com/yanndemel/crud-rest-gen.git</connection>
-		<developerConnection>scm:git:ssh://git@github.com/yanndemel/crud-rest-gen.git</developerConnection>
+		<url>https://github.com/saad14092/crud-rest-gen</url>
+		<connection>scm:git:ssh://git@github.com/saad14092/crud-rest-gen.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/saad14092/crud-rest-gen.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
 
